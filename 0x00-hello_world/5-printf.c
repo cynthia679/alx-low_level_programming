@@ -1,6 +1,7 @@
 #include <stdio.h>
 /*
- * main - with proper grammar, but the outcome is a piece of art,
+ * main - with proper grammar, but the outcome is a piece of art
+ *description - A program that prints a line using printf
  * Return: Always 0 (success)
  */
 int main(void)
