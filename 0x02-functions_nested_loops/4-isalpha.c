@@ -5,10 +5,10 @@
  *@c: the character to be checked
  *Return: 1 for alphabetical order or 0 for anything else
  */
-int _isalpha(int c)
+int _isalpha(int x)
 
 {
-      	if ((c >= && c <= 90) || (c >= 97 && c <=122))
+      	if ((x >= && x <= 90) || (x >= 97 && x <=122))
 	{
 		return (1);
 	}
